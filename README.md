@@ -3,7 +3,7 @@
 ## Como configurar o ambiente:
 
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas, caso não as tenhas instalado:
-[Docker](https://www.docker.com/),[PHP](https://windows.php.net/download#php-8.1) Versão 8.1, 
+[Docker](https://www.docker.com/), [PHP](https://windows.php.net/download#php-8.1) Versão 8.1, 
 [Composer](https://getcomposer.org/) </p>
 
 =================
