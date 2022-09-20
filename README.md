@@ -1,4 +1,4 @@
-# desafio-fullstack-serviceNet
+# Api Laravel
 
 ## Como configurar o ambiente:
 
